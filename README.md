@@ -1,3 +1,4 @@
+![Alt text](https://www.codeship.io/projects/f071a170-5273-0131-de37-0ac68682b79c/status)
 == README
 
 This README would normally document whatever steps are necessary to get the
